@@ -1,6 +1,14 @@
 # Grid_Optimal_Path
 
 
+# Project Summary 
+The goal of the project was to develop an optimal path for a interlocking structure based on each step resulting in the smallest possible square area. 
+
+
+
+
+
+# Output Example of Algorithm:
 
 <img width="727" height="777" alt="Screenshot 2025-12-29 at 7 14 37 PM" src="https://github.com/user-attachments/assets/509afdce-f455-46eb-88e2-4efe398aa4d9" />
 
