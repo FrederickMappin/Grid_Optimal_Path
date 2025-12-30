@@ -2,8 +2,7 @@
 
 
 # Project Summary 
-The goal of the project was to develop an optimal path for a interlocking structure based on each step resulting in the smallest possible square area. 
-
+The goal of the project was to develop an optimal path  algorithm for interlocking structure based on each step resulting in the smallest possible square area. 
 
 
 
